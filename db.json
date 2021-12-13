@@ -1,0 +1,272 @@
+
+{
+    "Student" : [
+
+        {
+           "id"       : 1,
+           "name"     : "Md Raju",
+           "roll"    : 145687,
+           "reg"     : 45879658423,
+           "age"      : 30,
+           "location" : "Dhaka",
+           "gender"   : "Male"
+           },
+       
+       {
+           "id"       : 1,
+           "name"     : "MD Kayda Azam",
+           "roll"    : 145687,
+           "reg"     : 45879658423,
+           "age"      : 30,
+           "location" : "Dhaka",
+           "gender"   : "Male"
+       },
+    
+       {
+           "id"       : 1,
+           "name"     : "Azam",
+           "roll"    : 145687,
+           "reg"     : 45879658423,
+           "age"      : 30,
+           "location" : "Dhaka",
+           "gender"   : "Male"
+        },
+    
+        {
+            "id"       : 1,
+            "name"     : "Md Salman",
+            "roll"    : 145687,
+            "reg"     : 45879658423,
+            "age"      : 30,
+            "location" : "Dhaka",
+            "gender"   : "Male"
+        },
+    
+        {
+            "id"       : 1,
+            "name"     : "Md Arman",
+            "roll"    : 145687,
+            "reg"     : 45879658423,
+            "age"      : 30,
+            "location" : "Dhaka",
+            "gender"   : "Male"
+        },
+    
+        {
+            "id"       : 1,
+            "name"     : "Md Arif",
+            "roll"    : 145687,
+            "reg"     : 45879658423,
+            "age"      : 30,
+            "location" : "Dhaka",
+            "gender"   : "Male"
+        },
+    
+        {
+            "id"       : 1,
+            "name"     : "Md Jamail",
+            "roll"    : 145687,
+            "reg"     : 45879658423,
+            "age"      : 30,
+            "location" : "Dhaka",
+            "gender"   : "Male"
+        },
+    
+        {
+            "id"       : 1,
+            "name"     : "Md Ripon",
+            "roll"    : 145687,
+            "reg"     : 45879658423,
+            "age"      : 30,
+            "gender"   : "Male"
+        },
+    
+        {
+            "id"       : 1,
+            "name"     : "Md Mustofa",
+            "roll"    : 145687,
+            "reg"     : 45879658423,
+            "age"      : 30,
+            "location" : "Dhaka",
+            "gender"   : "Male"
+        },
+    
+        {
+            "id"       : 1,
+            "name"     : "Md Alamin",
+            "roll"    : 145687,
+            "reg"     : 45879658423,
+            "location" : "Dhaka",
+            "gender"   : "Male"
+        }
+
+    ],
+
+    "Developer" :  [
+        {
+          "id"       : 1,
+          "Name"     :"Md Kayda Azam",
+          "age"      : 18,
+          "skill"    : "Laravel",
+          "income"   : 1000,
+          "locatio"  : "Dhaka",
+          "gender"     : "Male"
+        },
+        {
+          "id"       : 1,
+          "Name"     :"Azam",
+          "age"      : 18,
+          "skill"    : "Laravel",
+          "income"   : 1000,
+          "locatio"  : "Dhaka",
+          "gender"     : "Male"
+        },
+        {
+          "id"       : 1,
+          "Name"     :"Md Arif",
+          "age"      : 18,
+          "skill"    : "Laravel",
+          "income"   : 1000,
+          "locatio"  : "Dhaka",
+          "gender"     : "Male"
+        },
+        {
+          "id"       : 1,
+          "Name"     :"Md Salman",
+          "age"      : 18,
+          "skill"    : "Laravel",
+          "income"   : 1000,
+          "locatio"  : "Dhaka",
+          "gender"     : "Male"
+        },
+        {
+          "id"       : 1,
+          "Name"     :"Md Arman",
+          "age"      : 18,
+          "skill"    : "Laravel",
+          "income"   : 1000,
+          "locatio"  : "Dhaka",
+          "gender"     : "Male"
+        },
+        {
+          "id"       : 1,
+          "Name"     :"Md Kamal",
+          "age"      : 18,
+          "skill"    : "Laravel",
+          "income"   : 1000,
+          "locatio"  : "Dhaka",
+          "gender"     : "Male"
+        },
+        {
+          "id"       : 1,
+          "Name"     :"Md Kamal",
+          "age"      : 18,
+          "skill"    : "Laravel",
+          "income"   : 1000,
+          "locatio"  : "Dhaka",
+          "gender"     : "Male"
+        },
+        {
+          "id"       : 1,
+          "Name"     :"Md Jamal",
+          "age"      : 18,
+          "skill"    : "Laravel",
+          "income"   : 1000,
+          "locatio"  : "Dhaka",
+          "gender"     : "Male"
+        },
+        {
+          "id"       : 1,
+          "Name"     :"Md Ripon",
+          "age"      : 18,
+          "skill"    : "Laravel",
+          "income"   : 1000,
+          "locatio"  : "Dhaka",
+          "gender"     : "Male"
+        },
+        {
+          "id"       : 1,
+          "Name"     :"Md Raju",
+          "age"      : 18,
+          "skill"    : "Laravel",
+          "income"   : 1000,
+          "locatio"  : "Dhaka",
+          "gender"     : "Male"
+        }
+    ],
+
+    "Faily" : [
+        
+        {
+          "id"       : 1,
+          "name"     : "Md Raju",
+          "phone"    : "01324516475",
+          "location" : "Dhaka" 
+        
+        },
+        {
+            "id"       : 1,
+            "name"     : "Md Kayda Azam",
+            "phone"    : "01324516475",
+            "location" : "Dhaka" 
+          
+        },
+        {
+            "id"       : 1,
+            "name"     : "Md Arif",
+            "phone"    : "01324516475",
+            "location" : "Dhaka" 
+          
+        },
+        {
+            "id"       : 1,
+            "name"     : "Md Ripon",
+            "phone"    : "01324516475",
+            "location" : "Dhaka" 
+          
+        },
+        {
+            "id"       : 1,
+            "name"     : "Md Arman",
+            "phone"    : "01324516475",
+            "location" : "Dhaka" 
+          
+        },
+        {
+            "id"       : 1,
+            "name"     : "Md Salman",
+            "phone"    : "01324516475",
+            "location" : "Dhaka" 
+          
+        },
+        {
+            "id"       : 1,
+            "name"     : "Md Alamin",
+            "phone"    : "01324516475",
+            "location" : "Dhaka" 
+          
+        },
+        {
+            "id"       : 1,
+            "name"     : "Md Achem",
+            "phone"    : "01324516475",
+            "location" : "Dhaka" 
+          
+        },
+        {
+            "id"       : 1,
+            "name"     : "Md Akhas",
+            "phone"    : "01324516475",
+            "location" : "Dhaka" 
+          
+        },
+        {
+            "id"       : 1,
+            "name"     : "Md Batas",
+            "phone"    : "01324516475",
+            "location" : "Dhaka"
+          
+        }
+    ]
+
+}
